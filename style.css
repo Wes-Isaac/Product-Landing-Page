@@ -9,6 +9,8 @@
   background: #f0f0f0;
   position: sticky;
   top: 0;
+  margin-bottom: 2rem;
+  background-color: rgba(190, 187, 187, 0.5);
 }
 #header .b-nav {
   display: flex;
@@ -38,7 +40,15 @@
   color: #333;
   font-size: 1.3rem;
   text-decoration: none;
-  margin-right: 0.75rem;
+  margin: auto 1rem;
+  padding: 0.5rem;
+}
+#nav-bar a:hover {
+  background: #333;
+  color:#fff;
+  padding: 0.5rem;
+  border-radius: 5px;
+
 }
 #video1 {
   display: flex;
