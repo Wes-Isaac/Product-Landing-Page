@@ -1,2 +1,3 @@
 # microverse-project-product-l-page
-[Live Link](https://wes-isaac.github.io/Product-Landing-Page/)
+Product Landing Page exercise from freecodecamp.org 
+HTML, CSS and a little bit jquery for smooth scrolling.
